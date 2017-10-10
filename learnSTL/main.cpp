@@ -3,6 +3,6 @@ using namespace std;
 int main()
 
 {
-	cout << "VS and git " << endl;
+	cout << "VS and git 3" << endl;
 	return 0;
  }
